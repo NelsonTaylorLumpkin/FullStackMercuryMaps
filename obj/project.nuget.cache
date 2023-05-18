@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "sn7XrlcqtCvrfmGsVUerJ/3QebjvCh4uOA5UJuP12Jza8vxeUnhf+nOhtWyGrGdvlUmte+pMYRgdaTEngJGUDQ==",
+  "dgSpecHash": "9xeBcmCjfyHpUkApl7KEUqj6x4vGBX3xO6cvxBCvYtpNaGIJwf7Yc3EmeW3x+jYPsdubaZYSOWU7FTDZ3thVMg==",
   "success": true,
   "projectFilePath": "C:\\Users\\ossoc\\source\\workspace\\Full-Stack-Mercury-Maps\\Full-Stack-Mercury-Maps.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ossoc\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\ossoc\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
+    "C:\\Users\\ossoc\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.17\\microsoft.aspnetcore.authentication.jwtbearer.5.0.17.nupkg.sha512",
     "C:\\Users\\ossoc\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\ossoc\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\ossoc\\.nuget\\packages\\microsoft.data.sqlclient\\5.1.1\\microsoft.data.sqlclient.5.1.1.nupkg.sha512",
